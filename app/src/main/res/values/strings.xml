@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LabWork 2-1-4</string>
+    <string name="title">Easy Stove-Top Macaroni And Cheese</string>
+    <string name="about">Cook macaroni according to package directions.
+In medium saucepan, melt butter over medium heat; stir in flour, salt and pepper; slowly add milk.
+Cook and stir until bubbly.
+Stir in cheese until melted.
+Drain macaroni; add to cheese sauce; stir to coat.</string>
+
+<!--    <string name="tab1">ABOUT</string>-->
+<!--    <string name="tab2">INGRIDIENT</string>-->
+    <string name="naming">Product Name</string>
+    <string name="count">Amount</string>
+    <string name="weight">Weight g.</string>
+
+</resources>
